@@ -5,9 +5,9 @@ Http API testing library that is fully configuration driven and asynchronous
 
 #### To do
 
-- [ ] Implement CI with [travis](https://travis-ci.org/)
-  - [ ] Unit tests reporting
-  - [ ] Integration tests reporting
+- [x] Implement CI with [travis](https://travis-ci.org/)
+  - [x] Unit tests reporting
+  - [x] Integration tests reporting
 - [ ] Implement [Greenkeeper](http://greenkeeper.io/)
 - [ ] Get request
   - [ ] Status code checking
