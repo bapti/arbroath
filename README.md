@@ -26,4 +26,6 @@ Http API testing library that is fully configuration driven and asynchronous
 
 #### Libraries
 
-- CoffeeScript
+- [Coffee Script](http://coffeescript.org/) language because I love it
+- [Request](https://github.com/request/request) HTTP library
+- [Highland](http://highlandjs.org/) streaming made easy
