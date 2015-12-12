@@ -1,6 +1,8 @@
 # arbroath
 Http API testing library that is fully configuration driven and asynchronous
 
+[![Build Status](https://travis-ci.org/bapti/arbroath.svg)](https://travis-ci.org/bapti/arbroath)
+
 #### To do
 
 - [ ] Implement CI with [travis](https://travis-ci.org/)
@@ -39,3 +41,12 @@ Http API testing library that is fully configuration driven and asynchronous
 - [Coffee Script](http://coffeescript.org/) language because I love it
 - [Request](https://github.com/request/request) HTTP library
 - [Highland](http://highlandjs.org/) streaming made easy
+
+#### Testing
+
+```sh
+npm test
+```
+
+- [Mocha](https://mochajs.org/) - test framework and cli
+- [Should](http://shouldjs.github.io/) - assertions
