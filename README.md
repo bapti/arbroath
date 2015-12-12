@@ -23,3 +23,7 @@ Http API testing library that is fully configuration driven and asynchronous
 
 - [Blog](https://developer.atlassian.com/blog/2015/11/scripting-with-node/) about building a node js cli
 - [Blog](http://martinfowler.com/articles/refactoring-adaptive-model.html) about the adaptive model and pushing behaviour into configuration
+
+#### Libraries
+
+- CoffeeScript
