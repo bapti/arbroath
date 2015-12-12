@@ -1,0 +1,25 @@
+{
+  "name": "arbroath",
+  "version": "0.0.1",
+  "description": "Http Api testing Cli and library. Config and convention driven asynchronous testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bapti/arbroath.git"
+  },
+  "keywords": [
+    "http",
+    "api",
+    "testing",
+    "streaming"
+  ],
+  "author": "Neil Crawford <neil.crawford@gmail.com> (https://github.com/bapti)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bapti/arbroath/issues"
+  },
+  "homepage": "https://github.com/bapti/arbroath#readme"
+}
