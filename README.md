@@ -3,15 +3,26 @@ Http API testing library that is fully configuration driven and asynchronous
 
 [![Build Status](https://travis-ci.org/bapti/arbroath.svg)](https://travis-ci.org/bapti/arbroath)
 
-#### To do
+#### To do real work
+
+- [ ] NPM
+  - [ ] Publish to NPM from CI?
+  - [ ] Front page widgets for NPM
+
+- [ ] Get request
+  - [ ] Status code checking
+  - [ ] Fake data in query string
+
+#### To do yak shaving
 
 - [x] Implement CI with [travis](https://travis-ci.org/)
   - [x] Unit tests reporting
   - [x] Integration tests reporting
-- [ ] Implement [Greenkeeper](http://greenkeeper.io/)
-- [ ] Get request
-  - [ ] Status code checking
-  - [ ] Fake data in query string
+
+- [ ] Dependencies
+  - [ ] Implement [Greenkeeper](http://greenkeeper.io/) to keep up to date with dependencies
+  - [ ] Dependencies widgets [Widgets](https://david-dm.org/)
+
 
 #### Design Goals
 
