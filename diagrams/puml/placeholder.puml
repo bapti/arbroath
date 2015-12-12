@@ -1,0 +1,9 @@
+@startuml
+
+[Service1] ---> [Service2]
+
+note right of [Service1]
+  This is service 1
+end note
+
+@enduml

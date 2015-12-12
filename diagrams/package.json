@@ -1,0 +1,27 @@
+{
+  "name": "fulfilments-reporting-docs",
+  "version": "0.0.1",
+  "private": true,
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:findmypast/fulfilments-reporting.git"
+  },
+  "author": "Neil Crawford",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/findmypast/fulfilments-reporting/issues"
+  },
+  "homepage": "https://github.com/findmypast/fulfilments-reporting",
+  "devDependencies": {},
+  "dependencies": {
+    "async": "^1.5.0",
+    "del": "^2.2.0",
+    "globby": "^4.0.0",
+    "gulp": "^3.9.0",
+    "gulp-sequence": "^0.4.1",
+    "handlebars": "^4.0.5",
+    "lodash": "^3.10.1",
+    "node-plantuml": "^0.4.3"
+  }
+}
